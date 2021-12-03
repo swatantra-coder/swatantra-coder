@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swatantra-coder
+- 👋 Hi, I’m Swatantr
 - 👀 I’m interested in Web Development,DSA, Data Science
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web development project 
