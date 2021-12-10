@@ -8,4 +8,5 @@
 swatantra-coder/swatantra-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
+[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
+![GitHub Views](https://komarev.com/ghpvc/?username=<username>)![GitHub Views](https://komarev.com/ghpvc/?username=<username>)
