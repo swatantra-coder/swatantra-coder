@@ -9,4 +9,4 @@ swatantra-coder/swatantra-coder is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 [![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
-![GitHub Views](https://komarev.com/ghpvc/?username=<username>)![GitHub Views](https://komarev.com/ghpvc/?username=<username>)
+![GitHub Views](https://komarev.com/ghpvc/?username=<username>)![GitHub Views](https://komarev.com/ghpvc/?username=<swatantra-coder>)
