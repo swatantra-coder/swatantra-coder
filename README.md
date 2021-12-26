@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **swatantrasingh3506@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D93KYm0JibMOeO9U5bQQcc0TENQEiAEH/view?usp=sharing](https://drive.google.com/file/d/1D93KYm0JibMOeO9U5bQQcc0TENQEiAEH/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1D93KYm0JibMOeO9U5bQQcc0TENQEiAEH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
