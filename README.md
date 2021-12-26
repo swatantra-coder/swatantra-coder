@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on Web development project 
 - 📫 How to reach me swatantrasingh3506@gamil.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swatantra-coder&label=Profile%20views&color=0e75b6&style=flat" alt="swatantra-coder" /> </p>
+
+
 ![Count](https://profile-counter.glitch.me/{swatantra-coder}/count.svg)
 
 swatantra-coder/swatantra-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Swatantra</h1>
 <h3 align="center">I’m interested in Web Development, DSA, Data Science, Machine Learning and Robotics(Drones)..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swatantra-coder&label=Profile%20views&color=0e75b6&style=flat" alt="swatantra-coder" /> </p>
 
 - 🌱 I’m currently learning **ML**
 
