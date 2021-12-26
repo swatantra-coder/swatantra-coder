@@ -8,10 +8,10 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatantra-coder&label=Profile%20views&color=0e75b6&style=flat" alt="swatantra-coder" /> </p>
 
 
-<h3 align="center">I’m interested in Web Development, DSA, Data Science, Machine Learning and Robotics(Drones)..</h3>
+<h3 align="center">I’m interested in Web Development, DSA, Data Science, Machine Learning and Robotics(Drones).</h3>
 
 - 👀 I’m interested in Web Development, DSA, Data Science, Machine Learning
-- 
+
 - 🌱 I’m currently learning **ML**
 
 - 👯 I’m looking to collaborate on **Weather Web page and other projects.**
