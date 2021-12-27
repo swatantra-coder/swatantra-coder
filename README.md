@@ -6,9 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatantra-coder&label=Profile%20views&color=0e75b6&style=flat" alt="swatantra-coder" /> </p>
 
 
-<h3 align="center">I’m interested in Web Development, DSA, Data Science, Machine Learning and Robotics(Drones).</h3>
+<h3 align="center">👀 I’m interested in Web Development, DSA, Data Science, Machine Learning and Robotics(Drones).</h3>
 
-- 👀 I’m interested in Web Development, DSA, Data Science, Machine Learning
 
 - 🌱 I’m currently learning **ML**
 
