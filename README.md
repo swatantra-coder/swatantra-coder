@@ -9,9 +9,9 @@
 <h3 align="center">👀 I’m interested in Web Development, DSA, Data Science, Machine Learning and Robotics(Drones).</h3>
 
 
-- 🌱 I’m currently learning **ML**
+- 🌱 
 
-- 👯 I’m looking to collaborate on **Weather Web page and other projects.**
+- 👯 I’m looking to collaborate on **Web based  projects.**
 
 - 🤝 I’m looking for help with **Web development Project**
 
