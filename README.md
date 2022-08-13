@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **swatantrasingh3506@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1Rd5872ytGRw8uvzexXhBn6_5FqUnP2s4)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1byuUgkL25oaVmyZkeJlw4lwcoVjrQUdF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
