@@ -10,7 +10,7 @@
 
  
 
-- 👯 I’m looking to collaborate on **Web based  projects.**
+- 👯 I’m looking for **Software Development Internship(6 Months[Jan-Jun])/FTE.**
 
 - 🤝 I’m looking for help with **Web development Project**
 
