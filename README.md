@@ -8,8 +8,7 @@
 
 <h3 align="center">👀 I’m interested in Web Development, DSA, Data Science, Machine Learning and Robotics(Drones).</h3>
 
-
-- 🌱 
+ 
 
 - 👯 I’m looking to collaborate on **Web based  projects.**
 
@@ -19,7 +18,7 @@
 
 - 📫 How to reach me **swatantrasingh3506@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xSVcv63tYyVEfvbnmGcFSEUV_Ml3XJnB/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1Rd5872ytGRw8uvzexXhBn6_5FqUnP2s4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
