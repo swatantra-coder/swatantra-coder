@@ -36,3 +36,6 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swatantra-coder&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg
