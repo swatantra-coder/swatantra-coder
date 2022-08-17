@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/swatantrasingh1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swatantrasingh1508" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/swatantrasingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swatantrasingh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_swatantra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_swatantra_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/swatantrasingh3506/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="swatantrasingh3506/practice/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/swatantrasingh3506/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="swatantra1508/practice/" height="30" width="40" /></a>
 </p>
 
 
