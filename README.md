@@ -10,7 +10,7 @@
 
  
 
-- 👯 I’m looking for **Software Development Internship(6 Months[Jan-Jun])/FTE.**
+- 👯 Upcoming **SDE Intern @Amadeus**
 
 - 🤝 I’m looking for help with **Web development Project**
 
