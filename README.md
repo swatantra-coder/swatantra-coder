@@ -38,7 +38,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatantra-coder&theme=highcontrast&show_icons=true&layout=compact)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swatantra-coder)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
