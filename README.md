@@ -38,7 +38,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatantra-coder&theme=highcontrast&show_icons=true&layout=compact)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swatantra-coder)
 
 
 
