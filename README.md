@@ -10,7 +10,7 @@
 
  
 
-- 👯 Upcoming **SDE Intern @Amadeus**
+- 🏢 Upcoming **SDE Intern @Amadeus**
 
 - 🤝 I’m looking for help with **Web development Project**
 
