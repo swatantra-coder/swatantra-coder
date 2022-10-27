@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **swatantrasingh3506@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1byuUgkL25oaVmyZkeJlw4lwcoVjrQUdF/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JQrQ8rDZRbFTcq-ypD8a24HxEHbdmnKx/view?usp=sharing)
 
 
 [![@swatantra's Holopin board](https://holopin.me/swatantra)](https://holopin.io/@swatantra)
