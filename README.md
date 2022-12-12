@@ -21,7 +21,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JQrQ8rDZRbFTcq-ypD8a24HxEHbdmnKx/view?usp=sharing)
 
 
-[![@swatantra's Holopin board](https://holopin.me/swatantra)](https://holopin.io/@swatantra)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
