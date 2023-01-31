@@ -10,7 +10,7 @@
 
  
 
-- 🏢**SDE Intern @Amadeus**
+- 🏢 **SDE Intern @Amadeus**
 
 - 🤝 I’m currently working on **Web development Projects**
 
