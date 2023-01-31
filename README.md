@@ -10,15 +10,14 @@
 
  
 
-- 🏢 Upcoming **SDE Intern @Amadeus**
+- 🏢**SDE Intern @Amadeus**
 
-- 🤝 I’m looking for help with **Web development Project**
+- 🤝 I’m currently working on **Web development Projects**
 
-- 💬 Ask me about **C++, DSA and Data Science**
+- 💬 Ask me about **C++, DSA, Data Science, Software Engineering and Web Development**
 
 - 📫 How to reach me **swatantrasingh3506@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JQrQ8rDZRbFTcq-ypD8a24HxEHbdmnKx/view?usp=sharing)
 
 
 
