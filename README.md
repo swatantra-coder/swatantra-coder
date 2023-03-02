@@ -1,5 +1,5 @@
 
-[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/swatantra-coder?tab=repositories)
+
 <h1 align="center">Hi 👋, I'm Swatantra</h1>
 <p align="center"><img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="width:375px;height:250px;"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatantra-coder&label=Profile%20views&color=0e75b6&style=flat" alt="swatantra-coder" /> </p>
