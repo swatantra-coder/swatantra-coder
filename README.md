@@ -36,10 +36,9 @@
 
 
 
-<p align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatantra-coder&theme=highcontrast&show_icons=true&layout=compact)</p>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatantra-coder&theme=highcontrast&show_icons=true&layout=compact)
 
-
-<p align="center">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swatantra-coder&theme=highcontrast&show_icons=true&layout=compact)</p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swatantra-coder&theme=highcontrast&show_icons=true&layout=compact)
 
 
 
