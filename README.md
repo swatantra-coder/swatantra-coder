@@ -1,8 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Swatantra</h1>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="width:200px;height:200px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatantra-coder&label=Profile%20views&color=0e75b6&style=flat" alt="swatantra-coder" /> </p>
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="width:48px;height:48px;">
+
 
 <h3 align="center">👀 I’m interested in Web Development, DSA, Data Science, Machine Learning and Robotics(Drones).</h3>
 
