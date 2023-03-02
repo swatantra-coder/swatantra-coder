@@ -1,7 +1,7 @@
 
 
 
-
+<img align="center" src="https://cliply.co/wp-content/uploads/2020/08/432008032_FOLDED_HANDS_3D_MONOCHROMATIC_400px.gif">
 <h1 align="center">Hi 👋, I'm Swatantra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatantra-coder&label=Profile%20views&color=0e75b6&style=flat" alt="swatantra-coder" /> </p>
 
