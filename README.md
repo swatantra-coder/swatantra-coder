@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Swatantra</h1>
-<p align="center"><img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="width:375px;height:250px;"></p>
+<p align="center" border-radius:"20px"><img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="width:375px;height:250px;"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatantra-coder&label=Profile%20views&color=0e75b6&style=flat" alt="swatantra-coder" /> </p>
 
 
