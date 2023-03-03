@@ -41,7 +41,7 @@
  
       <a href="https://auth.geeksforgeeks.org/user/swatantra1508/practice/" target="blank">
        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"                 alt="swatantra1508/practice/" height="30" width="40" />
-      </a>-->
+      </a> -->
 </p>
 
 
