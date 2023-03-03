@@ -1,4 +1,4 @@
-
+<div>
 
 <h1 align="center">Hi 👋, I'm Swatantra</h1>
 <p align="center" border-radius:"20px"><img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="width:375px;height:250px;"></p>
@@ -40,5 +40,5 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swatantra-coder&theme=highcontrast&show_icons=true&layout=compact)
 
-
+</div>
 
