@@ -35,7 +35,7 @@
        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://leetcode.com/swatantrasingh" height="30" width="40" />
       </a>
  
-      <a href="https://www.leetcode.com/_swatantra_" target="blank">
+      <a href="https://leetcode.com/_swatantra_" target="blank">
        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"                      alt="https://leetcode.com/_swatantra_" height="30" width="40" />
       </a>
  
