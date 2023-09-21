@@ -16,7 +16,7 @@
 <h3 align="center">👀 I’m interested in Web Development, DSA, Data Science, Machine Learning and Robotics(Drones).</h3>
 
  
-- 🏢 **SDE Intern @Amadeus**
+- 🏢 **Software Engineer @Amadeus**
 
 - 🤝 I’m currently working on **Web development Projects**
 
